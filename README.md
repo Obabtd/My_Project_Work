@@ -63,3 +63,25 @@ The percentage of deaths in female that occurred in the 80+ age group is 459 whi
 of the total death that occurred in this age group and it is about 50.5% increase to that of death in
 male which is at total of 305. The total death that occurred in this age group is 764
 
+## Data Interpretation
+It can be deduced from the data that Wandsworth county has a total population of 321,500 people
+out of which 155,110 are Males (which is 48.25% of the population) and 166,390 are Female (which
+is 51.75% of the population) in essence we have more female than male in Wandsworth. In addition,
+the data shows that St. Mary’s Park is the Ward with the highest population of 18,069 in all the 20
+Wards that are in Wandsworth.
+
+However, the report indicated that the total number of deaths recorded for the year 2016 in
+Wandsworth is 1,508 and most of it happen in the month of January with a total of 182 deaths
+recorded in January 2016. In the entire year, about 765 female deaths were recorded and 743 male
+deaths were recorded in same year. Which means there were more female deaths than the male
+deaths with a percentage difference of 2.96%. Most of these female deaths involve more of the
+people within the age range of 75 years old to 90 years old while most of the deaths outside the age
+brackets were male.
+
+The report indicated that the leading underlying cause of the death in female was unspecified
+dementia which claims the life of 45 females and it was chronic ischaemic heart disease for the male
+counterpart which also claims the life of 68 males in the year under review. St. Mary’s Park ward had
+the highest number of deaths for both male and female population while Northcote ward had the
+least number of deaths for both sex in the entire Wandsworth county.
+
+
