@@ -20,6 +20,7 @@ Wandsworth, a district in southwest of London, wants to analysis the death roll 
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
+  
 After loading the Excel sheets into the PowerBI using Get data button, I used the power query to
 clean and transform the data in the Excel sheets by clicking on the Transform data button.
 I was able to clean and transform the data in the tables by promoting the first row into the header of the columns in the table using the Use First Row as Headers button under the Transform pane so that each column heading can uniquely standout in the table.
