@@ -35,5 +35,6 @@ On the POPULATION_2016 table, I used the unpivoted column in the Transform pane 
 On the POPULATION_2016 table, I used the conditional column to convert the age column into age group column just similar to the age group column in DATA_2016 table.
 Using the Pivot table, I grouped the row data according to the table columns in order to generate the total population of people in Wandsworth.
 
-- Build a dashboard for data visualisation and apply slicer to make dynamics 
+- Build a dashboard for data visualisation and apply slicer to make dynamics
+  
 Using the data model view window in PowerBI, I was able to established the relationships between the tables and analyse the tables using DAX in PowerBI. 
