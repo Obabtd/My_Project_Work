@@ -17,3 +17,5 @@ Wandsworth, a district in southwest of London, wants to analysis the death roll 
 
 ## Dashboard Interaction 
 - <a href="https://github.com/Obabtd/My_Project_Work/blob/main/WWC%20Dashboard.png">View Dashboard</a>
+
+## Process
