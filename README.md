@@ -38,3 +38,28 @@ Using the Pivot table, I grouped the row data according to the table columns in 
 - Build a dashboard for data visualisation and apply slicer to make dynamics
   
 Using the data model view window in PowerBI, I was able to established the relationships between the tables and analyse the tables using DAX in PowerBI. 
+
+## Answers to KPIs
+- Q1. Which month saw the most registered deaths and how many were there?
+
+The report shows that the month of January has the month with the most registered deaths and the
+number of deaths registered was 182
+
+- Q2. Which ward had the highest death rate and what was it?
+
+The ward E05000622 referred to as St Mary’s Park has the highest death rate of 140
+
+- Q3. What is the leading underlying cause of death in males and what is the leading underlying
+cause of death in females?
+
+As indicated in the report, the leading underlying cause of death in males is Chronic ischaemic heart
+disease with a record of 68 cases while in female the leading underlying cause of death is
+Unspecified dementia with a record of 45 cases.
+
+- Q4. What percentage of deaths in females occurred in the 80+ age groups and how does this
+compare to males?
+
+The percentage of deaths in female that occurred in the 80+ age group is 459 which is about 60.08%
+of the total death that occurred in this age group and it is about 50.5% increase to that of death in
+male which is at total of 305. The total death that occurred in this age group is 764
+
