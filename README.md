@@ -19,3 +19,20 @@ Wandsworth, a district in southwest of London, wants to analysis the death roll 
 - <a href="https://github.com/Obabtd/My_Project_Work/blob/main/WWC%20Dashboard.png">View Dashboard</a>
 
 ## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+After loading the Excel sheets into the PowerBI using Get data button, I used the power query to
+clean and transform the data in the Excel sheets by clicking on the Transform data button.
+I was able to clean and transform the data in the tables by promoting the first row into the header of the columns in the table using the Use First Row as Headers button under the Transform pane so that each column heading can uniquely standout in the table.
+
+- Ensured data is consistent and clean with respect to data type, data format and values used
+
+On DATA_2016 table, I then use the split columns by delimiter to extract the months in words from the month of death registration column into another column and renamed the new column as the month of death registration and deleted the former column in order to assign numbers to the month in a way that PowerBI will be able to identify and use the month data for analysis. 
+On the POPULATION_2016 table, I used the unpivoted column in the Transform pane to create a new column that match the ward code to the ward name. Then, I used the split columns by delimiter to separate the ward codes and the ward names into two different columns then renamed the columns for easy analysis on PowerBI.
+
+- Create Pivot tables according to the predetermined KPIs
+
+On the POPULATION_2016 table, I used the conditional column to convert the age column into age group column just similar to the age group column in DATA_2016 table.
+Using the Pivot table, I grouped the row data according to the table columns in order to generate the total population of people in Wandsworth.
+
+- Build a dashboard for data visualisation and apply slicer to make dynamics 
+Using the data model view window in PowerBI, I was able to established the relationships between the tables and analyse the tables using DAX in PowerBI. 
