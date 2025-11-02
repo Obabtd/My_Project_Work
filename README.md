@@ -87,3 +87,12 @@ least number of deaths for both sex in the entire Wandsworth county.
 ## Dashboard
 <img width="1343" height="757" alt="WWC Dashboard" src="https://github.com/user-attachments/assets/3f653733-564c-458a-a7d6-ac64ffeaf849" />
 
+## Conclusion
+This report highlights the importance of Wandsworth county to engage in various campaign and awareness on quality lifestyle, medical and social services available for people to access in order to reduce the risk of dementia and chronic ischaemic heart disease with special focus on St. Mary’s Park ward and people within the age range of 75 years old to 90 years old. 
+This awareness should include areas like:
+- Managing stress and mental health
+- Ensuring quality sleep
+- Attending regular medical check-ups
+- Staying socially connected
+- Exercising regularly
+Etc.
