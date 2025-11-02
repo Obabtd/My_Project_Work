@@ -84,4 +84,6 @@ counterpart which also claims the life of 68 males in the year under review. St.
 the highest number of deaths for both male and female population while Northcote ward had the
 least number of deaths for both sex in the entire Wandsworth county.
 
+## Dashboard
+<img width="1343" height="757" alt="WWC Dashboard" src="https://github.com/user-attachments/assets/3f653733-564c-458a-a7d6-ac64ffeaf849" />
 
