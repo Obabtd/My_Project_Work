@@ -95,4 +95,5 @@ This awareness should include areas like:
 - Attending regular medical check-ups
 - Staying socially connected
 - Exercising regularly
+  
 Etc.
